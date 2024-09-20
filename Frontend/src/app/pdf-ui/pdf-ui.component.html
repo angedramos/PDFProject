@@ -1,0 +1,37 @@
+<div class="container">
+  <h2>PDF Manager</h2>
+
+  <!-- Botones para alternar entre opciones -->
+  <div class="button-group">
+    <button
+      (click)="setView('upload')"
+      [class.active]="currentView === 'upload'"
+    >
+      Subir PDF
+    </button>
+    <button (click)="setView('list')" [class.active]="currentView === 'list'">
+      Lista de PDFs
+    </button>
+  </div>
+
+  <div *ngIf="currentView === 'upload'" class="section">
+    <h3>Subir PDF</h3>
+    <input type="file" (change)="onFileSelected($event)" />
+    <button (click)="onUpload()">Subir PDF</button>
+    <!-- Mostrar el mensaje de estado de la subida -->
+    <div *ngIf="uploadStatusMessage" class="status-message">
+      {{ uploadStatusMessage }}
+    </div>
+  </div>
+
+  <!-- Sección para mostrar la lista de PDFs -->
+  <div *ngIf="currentView === 'list'" class="section">
+    <h3>Lista de PDFs</h3>
+    <ul class="pdf-list">
+      <li *ngFor="let pdf of pdfs">
+        <span>{{ pdf.fileName }}</span>
+        <button (click)="onDownload(pdf.id)">Descargar</button>
+      </li>
+    </ul>
+  </div>
+</div>
