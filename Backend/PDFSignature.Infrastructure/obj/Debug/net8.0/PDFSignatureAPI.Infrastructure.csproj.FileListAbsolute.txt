@@ -15,3 +15,4 @@ C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastruct
 C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.pdb
 C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.genruntimeconfig.cache
 C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\ref\PDFSignatureAPI.Infrastructure.dll
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.sourcelink.json

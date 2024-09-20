@@ -10,3 +10,4 @@ C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\De
 C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\PDFSignatureAPI.Core.pdb
 C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\ref\PDFSignatureAPI.Core.dll
 C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\PDFSignatureAPI.Core.csproj.AssemblyReference.cache
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\PDFSignatureAPI.Core.sourcelink.json
