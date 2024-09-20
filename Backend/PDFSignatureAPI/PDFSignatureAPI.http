@@ -1,0 +1,6 @@
+@PDFSignatureAPI_HostAddress = http://localhost:5227
+
+GET {{PDFSignatureAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

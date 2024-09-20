@@ -1,0 +1,17 @@
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\bin\Debug\net8.0\PDFSignatureAPI.Infrastructure.deps.json
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\bin\Debug\net8.0\PDFSignatureAPI.Infrastructure.runtimeconfig.json
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\bin\Debug\net8.0\PDFSignatureAPI.Infrastructure.dll
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\bin\Debug\net8.0\PDFSignatureAPI.Infrastructure.pdb
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\bin\Debug\net8.0\PDFSignatureAPI.Core.dll
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\bin\Debug\net8.0\PDFSignatureAPI.Core.pdb
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.csproj.CopyComplete
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.dll
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\refint\PDFSignatureAPI.Infrastructure.dll
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.pdb
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\PDFSignatureAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Infrastructure\obj\Debug\net8.0\ref\PDFSignatureAPI.Infrastructure.dll

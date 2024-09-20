@@ -1,0 +1,12 @@
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\bin\Debug\net8.0\PDFSignatureAPI.Core.deps.json
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\bin\Debug\net8.0\PDFSignatureAPI.Core.dll
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\bin\Debug\net8.0\PDFSignatureAPI.Core.pdb
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\PDFSignatureAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\PDFSignatureAPI.Core.AssemblyInfoInputs.cache
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\PDFSignatureAPI.Core.AssemblyInfo.cs
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\PDFSignatureAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\PDFSignatureAPI.Core.dll
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\refint\PDFSignatureAPI.Core.dll
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\PDFSignatureAPI.Core.pdb
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\ref\PDFSignatureAPI.Core.dll
+C:\Users\anged\OneDrive\Escritorio\PDFSignature\Backend\PDFSignature.Core\obj\Debug\net8.0\PDFSignatureAPI.Core.csproj.AssemblyReference.cache

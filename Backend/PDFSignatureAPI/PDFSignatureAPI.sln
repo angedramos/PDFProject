@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDFSignatureAPI", "PDFSignatureAPI.csproj", "{96722998-AC70-4977-A77D-27DE96663EBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDFSignatureAPI.Infrastructure", "..\PDFSignature.Infrastructure\PDFSignatureAPI.Infrastructure.csproj", "{7108B8F9-4EDA-4F05-B363-0EAB6C198E47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDFSignatureAPI.Core", "..\PDFSignature.Core\PDFSignatureAPI.Core.csproj", "{19D17401-7ACF-4FFB-B2EC-B8FF4DF29AEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B86F81B1-AD6E-49AB-B5DE-D34A66EBC7B1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfSignatureAPI.Test", "..\PdfSignatureAPI.Test\PdfSignatureAPI.Test.csproj", "{A16B943B-A862-4D15-8769-2D521D27E364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96722998-AC70-4977-A77D-27DE96663EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96722998-AC70-4977-A77D-27DE96663EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96722998-AC70-4977-A77D-27DE96663EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96722998-AC70-4977-A77D-27DE96663EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7108B8F9-4EDA-4F05-B363-0EAB6C198E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7108B8F9-4EDA-4F05-B363-0EAB6C198E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7108B8F9-4EDA-4F05-B363-0EAB6C198E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7108B8F9-4EDA-4F05-B363-0EAB6C198E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D17401-7ACF-4FFB-B2EC-B8FF4DF29AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D17401-7ACF-4FFB-B2EC-B8FF4DF29AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D17401-7ACF-4FFB-B2EC-B8FF4DF29AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D17401-7ACF-4FFB-B2EC-B8FF4DF29AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A16B943B-A862-4D15-8769-2D521D27E364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16B943B-A862-4D15-8769-2D521D27E364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16B943B-A862-4D15-8769-2D521D27E364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16B943B-A862-4D15-8769-2D521D27E364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C63F61-8E06-4F39-9EE5-2B4B3CDC8352}
+	EndGlobalSection
+EndGlobal
